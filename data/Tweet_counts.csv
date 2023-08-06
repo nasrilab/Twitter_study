@@ -1,1 +1,47 @@
-{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"README.md","path":"README.md","contentType":"file"},{"name":"Tweet_Geolocations.csv","path":"Tweet_Geolocations.csv","contentType":"file"},{"name":"Tweet_counts.csv","path":"Tweet_counts.csv","contentType":"file"}],"totalCount":3}},"fileTreeProcessingTime":1.730073,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":580577007,"defaultBranch":"main","name":"Twitter_Lyme_dataset","ownerLogin":"Mohamed-Hamza-Ibrahim","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2022-12-20T17:47:10.000-05:00","ownerAvatar":"https://avatars.githubusercontent.com/u/98853959?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"main","listCacheKey":"v0:1671577642.171892","canEdit":true,"refType":"branch","currentOid":"4baacd59101785c0f5ca8cc65a5e2e2ac63a0f93"},"path":"Tweet_counts.csv","currentUser":{"id":140104487,"login":"nasrilab","userEmail":"nasrilab.udem@gmail.com"},"blob":{"rawLines":null,"stylingDirectives":null,"csv":[["country","Lyme counts","Non-Lyme counts"],["United States","9827","8478"],["United Kingdom","55","509"],["Canada","43","367"],["Australia","14","125"],["Germany","11","77"],["Iran","3","42"],["Mexico","6","34"],["France","3","32"],["New Zealand","4","26"],["Philippines","4","21"],["South Korea","2","18"],["Belgium","3","17"],["Ireland","1","19"],["Poland","1","17"],["Spain","0","15"],["Argentina","4","11"],["Netherlands","0","15"],["Sweden","1","9"],["Panama","0","10"],["Thailand","2","8"],["Jamaica","1","9"],["Indonesia","1","9"],["Venezuela","2","8"],["Switzerland","2","8"],["North Korea","1","9"],["Denmark","2","8"],["Norway","1","9"],["Chile","0","5"],["Italy","0","5"],["Sudan","1","4"],["Laos","0","5"],["Vietnam","1","4"],["Luxembourg","1","4"],["Brazil","0","5"],["Malaysia","0","5"],["Montenegro","0","5"],["Haiti","1","4"],["Taiwan","1","4"],["India","0","5"],["Austria","0","5"],["Sierra Leone","0","5"],["Estonia","1","4"],["Finland","0","5"],["Zimbabwe","0","5"],["China","0","5"],["Nigeria","0","5"]],"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/Mohamed-Hamza-Ibrahim/Twitter_Lyme_dataset/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/Mohamed-Hamza-Ibrahim/Twitter_Lyme_dataset/security/dependabot","repoSecurityAndAnalysisPath":"/Mohamed-Hamza-Ibrahim/Twitter_Lyme_dataset/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"Tweet_counts.csv","displayUrl":"https://github.com/Mohamed-Hamza-Ibrahim/Twitter_Lyme_dataset/blob/main/Tweet_counts.csv?raw=true","headerInfo":{"blobSize":"693 Bytes","deleteInfo":{"deletePath":"https://github.com/Mohamed-Hamza-Ibrahim/Twitter_Lyme_dataset/delete/main/Tweet_counts.csv","deleteTooltip":"Fork this repository and delete the file"},"editInfo":{"editTooltip":"Fork this repository and edit the file"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"63a21d7","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FMohamed-Hamza-Ibrahim%2FTwitter_Lyme_dataset%2Fblob%2Fmain%2FTweet_counts.csv","isCSV":true,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"47","truncatedSloc":"47"},"mode":"file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"CSV","large":false,"loggedIn":true,"newDiscussionPath":"/Mohamed-Hamza-Ibrahim/Twitter_Lyme_dataset/discussions/new","newIssuePath":"/Mohamed-Hamza-Ibrahim/Twitter_Lyme_dataset/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/Mohamed-Hamza-Ibrahim/Twitter_Lyme_dataset/blob/main/Tweet_counts.csv","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/Mohamed-Hamza-Ibrahim/Twitter_Lyme_dataset/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"Mohamed-Hamza-Ibrahim","repoName":"Twitter_Lyme_dataset","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":true,"symbols":[]}},"copilotUserAccess":{"canModifyCopilotSettings":false,"canViewCopilotSettings":false,"accessAllowed":false,"hasCFIAccess":true,"hasSubscriptionEnded":false,"business":null},"csrf_tokens":{"/Mohamed-Hamza-Ibrahim/Twitter_Lyme_dataset/branches":{"post":"DX-inomezvKsIMW-uFFetwjPYLrXdEXQ9CKDUEePSDAwcQbSfPecsQYGYbPQWKooCWqEzsCtxUIOTxKgoozPow"}}},"title":"Twitter_Lyme_dataset/Tweet_counts.csv at main · Mohamed-Hamza-Ibrahim/Twitter_Lyme_dataset","locale":"en"}
+country,Lyme counts,Non-Lyme counts
+United States,9827,8478
+United Kingdom,55,509
+Canada,43,367
+Australia,14,125
+Germany,11,77
+Iran,3,42
+Mexico,6,34
+France,3,32
+New Zealand,4,26
+Philippines,4,21
+South Korea,2,18
+Belgium,3,17
+Ireland,1,19
+Poland,1,17
+Spain,0,15
+Argentina,4,11
+Netherlands,0,15
+Sweden,1,9
+Panama,0,10
+Thailand,2,8
+Jamaica,1,9
+Indonesia,1,9
+Venezuela,2,8
+Switzerland,2,8
+North Korea,1,9
+Denmark,2,8
+Norway,1,9
+Chile,0,5
+Italy,0,5
+Sudan,1,4
+Laos,0,5
+Vietnam,1,4
+Luxembourg,1,4
+Brazil,0,5
+Malaysia,0,5
+Montenegro,0,5
+Haiti,1,4
+Taiwan,1,4
+India,0,5
+Austria,0,5
+Sierra Leone,0,5
+Estonia,1,4
+Finland,0,5
+Zimbabwe,0,5
+China,0,5
+Nigeria,0,5
