@@ -9,8 +9,8 @@ Authors: Elda K. E. Laison<sup>1</sup>, Mohammed H. Ibrahim<sup>1,2</sup>, Srika
 6.	Data Informatics Center of Epidemiology, PathCheck, Cambridge, United States.
 
 ## Description of data file:
-We have put three (3) files in the folder named “data” in the suppository on GitHub. These files are described below:  
--	*ProMED data*: contains all reports about Lyme disease submitted during the time period of our study. The file includes id, title, longitude and latitude, date (load, and incidence) and the source that submitted the report as well as the reviewer.  
+We have put three (2) files in the folder named “data” in the suppository on GitHub. These files are described below:  
+ 
 -	*Tweet_Geolocations_clean*: is a csv file that contains all the cleaned tweets with the tweet_id, the country of origin and the corresponding of the label class (0 or 1). 
 -	*Tweet_counts*: is a csv file containing information about the tweets collected from Twitter API after the cleaning process, after having been regrouped according to the https://github.com/nasrilab/Twitter_study/tree/main/data countries where they originate from and classified into Lyme counts and non-Lyme counts. 
 
